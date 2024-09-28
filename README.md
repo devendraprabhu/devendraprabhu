@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning btech
 - 💞️ I’m looking to collaborate on with anyone 
 - 📫 How to reach me by this 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 devendraprabhu/devendraprabhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
