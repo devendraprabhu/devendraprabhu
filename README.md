@@ -23,9 +23,7 @@ Here are some of the technologies I work with:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Fresh** | Stylish CSS project | HTML, CSS |
-| **Abra_code_abra** | Website made for a codeathon | HTML, CSS |
-| **Dice-roller** | Fun dice rolling app | CSS, JS |
+| **Opencinema** | Stylish CSS project | HTML, CSS ,reactJs |
 | **React API Project** | Dynamic app using APIs | React, React Router, API |
 
 ---
