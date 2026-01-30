@@ -3,9 +3,7 @@
 # 👋 Hi, I'm Devendra Prabhu
 ### ⚡ Full-Stack Developer | React & Node.js Specialist
 
-<p align="center">
-  <img src="https://github.com/devendraprabhu.png" width="150" style="border-radius: 50%; border: 3px solid #38B2AC;" alt="My PFP" />
-</p>
+
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=38B2AC&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=fadeIn" width="100%" />
 
