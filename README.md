@@ -7,7 +7,6 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=React+%2B+Node.js+Developer;Tailwind+CSS+Expert;Hardware+Enthusiast+(Arduino);Building+Scalable+Web+Apps)](https://git.io/typing-svg)
 
 </div>
 
