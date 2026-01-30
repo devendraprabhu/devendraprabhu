@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Devendra Prabhu
-### ⚡ Full-Stack Developer | React & Node.js Specialist
+
 
 
 
