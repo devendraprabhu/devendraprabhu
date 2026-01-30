@@ -1,50 +1,69 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Devendra Prabhu</h1>
+<h3 align="center">Creator of Open Cinema 🎬 </h3>
 
-# 👋 Hi, I'm Devendra Prabhu
-
-
-
-
-
-
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
+</p>
 
 ---
 
-### 🛠️ My Tech Toolbox
+## 🎬 Open Cinema
 
-<div align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+**Open Cinema** is a modern movie browsing web application built with  
+**React**, **React-DOM**, **Node.js**, and **Tailwind CSS**.
 
-</div>
+🔹 Clean and responsive UI  
+🔹 Smooth animations  
+🔹 Fast and user-friendly experience  
+🔹 Component-based React architecture  
+
+👉 **Repository:** https://github.com/devendraprabhu/open-cinema  
+👉 **Tech Used:** React • Node.js • Tailwind CSS
 
 ---
 
-### 📊 GitHub Activity (Alternative Mirror)
+## 👨‍💻 About Me
+
+I’m a passionate developer focused on building real-world projects.  
+Open Cinema represents my approach to **modern UI design**, **clean code**,  
+and **interactive user experiences** using React and Tailwind.
+
+---
+
+## 🛠 Tech Stack Used in Open Cinema
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devendraprabhu&show_icons=true&theme=tokyonight" alt="Stats Card" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devendraprabhu&layout=compact&theme=tokyonight" alt="Languages Card" />
 </div>
+---
+
+## 🚀 Featured Project
+
+### 🎥 Open Cinema
+👉 https://github.com/devendraprabhu/open-cinema  
+
+A movie discovery platform showcasing:
+- Modern React UI
+- Tailwind CSS styling
+- Smooth animations
+- Scalable component structure
 
 ---
 
-### 🌐 Let's Connect
+## 📫 Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pdevendraprabhu/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/dec0de21" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:devendraprabhu05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+- GitHub: https://github.com/devendraprabhu
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="300px">
-</div>
+<p align="center">⭐ Built with passion — powered by Open Cinema 🎬</p>
