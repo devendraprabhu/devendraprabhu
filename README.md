@@ -3,6 +3,11 @@
 # 👋 Hi, I'm Devendra Prabhu
 ### ⚡ Full-Stack Developer | React & Node.js Specialist
 
+<p align="center">
+  <img src="https://github.com/devendraprabhu.png" width="150" style="border-radius: 50%; border: 3px solid #38B2AC;" alt="My PFP" />
+</p>
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=38B2AC&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=fadeIn" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=React+%2B+Node.js+Developer;Tailwind+CSS+Expert;Hardware+Enthusiast+(Arduino);Building+Scalable+Web+Apps)](https://git.io/typing-svg)
 
@@ -26,23 +31,12 @@
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Activity (Alternative Mirror)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devendraprabhu&show_icons=true&theme=transparent&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&border_color=38B2AC" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendraprabhu&layout=compact&theme=transparent&title_color=38B2AC&text_color=ffffff&border_color=38B2AC" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devendraprabhu&show_icons=true&theme=tokyonight" alt="Stats Card" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devendraprabhu&layout=compact&theme=tokyonight" alt="Languages Card" />
 </div>
-
----
-
-### 📂 Featured Projects
-
-| Project | Stack | Status |
-| :--- | :--- | :--- |
-| **🎬 Opencinema** | React, Tailwind | ✅ Complete |
-| **🚀 Local Chatbot** | Llama 3, Node.js | 🛠️ In Progress |
-| **🍔 Burger Hub** | PHP, MySQL | ✅ Complete |
-| **🛡️ Smart Safety** | Arduino, IoT | ✅ Complete |
 
 ---
 
@@ -54,7 +48,8 @@
   <a href="mailto:devendraprabhu05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
+---
+
 <div align="center">
-  <br/>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="300px">
 </div>
