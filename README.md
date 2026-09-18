@@ -7,7 +7,13 @@ I build and ship **full-stack web apps**, **REST APIs**, **AI-powered products**
 🎬 **Open Cinema:** [devendraprabhu/open-cinema](https://github.com/devendraprabhu/open-cinema)
 
 ---
+<div align="center">
 
+<video width="700" autoplay loop muted playsinline>
+  <source src="GithubAscii.mov" type="video/mp4">
+</video>
+
+</div>
 ## Featured Work
 
 ### Flowstate
