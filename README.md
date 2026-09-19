@@ -130,8 +130,6 @@ Expected Graduation: **2027**
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dec0de21)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devendraprabhu05@gmail.com)
 
-**Phone:** [+91 8050952611](tel:+918050952611)
-
 </div>
 
 ---
