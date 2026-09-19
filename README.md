@@ -121,7 +121,6 @@ Expected Graduation: **2027**
 
 ---
 
-## 📞 Connect With Me
 
 <div align="center">
 
