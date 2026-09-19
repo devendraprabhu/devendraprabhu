@@ -1,84 +1,105 @@
-# Hi, I'm Devendra Prabhu
-
-Computer Science undergraduate and software developer from **Bengaluru, India**.  
-I build and ship **full-stack web apps**, **REST APIs**, **AI-powered products**, and **developer tools**.
-
-🌐 **Portfolio:** [devendraprabhu/portfolio](https://github.com/devendraprabhu/portfolio)  
-🎬 **Open Cinema:** [devendraprabhu/open-cinema](https://github.com/devendraprabhu/open-cinema)
-![GitHub Ascii Animation](GithubAscii-ezgif.com-video-to-gif-converter.gif)
----
+```markdown
 <div align="center">
 
-<video width="700" autoplay loop muted playsinline>
-  <source src="GithubAscii.gif" type="video/mp4">
-</video>
+```text
+██████╗ ███████╗██╗   ██╗███████╗███╗   ██╗██████╗ ██████╗  █████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝████╗  ██║██╔══██╗██╔══██╗██╔══██╗
+██║  ██║█████╗  ██║   ██║█████╗  ██╔██╗ ██║██║  ██║██████╔╝███████║
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██║  ██║██╔══██╗██╔══██║
+██████╔╝███████╗ ╚████╔╝ ███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 
-</div>
-## Featured Work
+```
 
-### Flowstate
-Full-stack AI app that turns short-form video into platform-ready social posts.  
-Built with **React.js** + **FastAPI**. Launched on **Product Hunt** and **Peerlist**.
+**`> /usr/bin/devendra --status`**
 
-### Open Cinema
-Modern movie browsing web app with a clean UI and smooth interactions.  
-Built with **React**, **Node.js**, and **Tailwind CSS**.  
-Repo: [open-cinema](https://github.com/devendraprabhu/open-cinema)
 
-### Aero Weather CLI
-Python command-line weather tool published on **PyPI**.  
-Package: [aero-wheather-cli](https://pypi.org/project/aero-wheather-cli/)
 
-### AI Chatbot
-Modular chatbot architecture with **Python**, **React.js**, and **LangChain** (Intermediate).
 
----
 
-## Tech Stack
+Computer Science Undergraduate & Full-Stack Developer based in **Bengaluru, India**.
 
-**Languages:** Python · JavaScript (ES6+) · PHP · SQL · HTML5 · CSS3  
 
-**Frontend:** React.js · Tailwind CSS · Bootstrap · Responsive Design  
 
-**Backend:** FastAPI · REST APIs · Authentication · Session Management  
 
-**Databases:** MongoDB · MySQL · Supabase  
 
-**AI & Data:** LangChain (Intermediate) · Prompt Engineering · Power BI  
+Building full-stack web apps, REST APIs, AI-powered products, and developer tools.
 
-**Tools:** Git · GitHub · Vercel · Render (Beginner) · Railway (Beginner) · PyPI
+## 终端 // PRIMARY_DIRECTIVES (Featured Work)
 
----
+> **`[01] DATAVEIL`**
+> Privacy-focused dataset sanitization engine with dynamic redaction, hashing, and masking capabilities.
+> * **Tech:** Next.js, FastAPI, Tailwind CSS, Pandas
+> 
+> 
 
-## Experience
+> **`[02] FLOWSTATE`**
+> Full-stack AI application engineered to transmute short-form video into platform-ready social posts.
+> * **Tech:** React.js, FastAPI
+> * **Deployment:** Launched globally on Product Hunt & Peerlist.
+> 
+> 
 
-**Data Analyst Intern** — GE Healthcare Partner Project *(Oct 2025 – Dec 2025)*  
-Built Power BI dashboards and data models for CT machine manufacturing visibility.
+> **`[03] OPEN CINEMA`**
+> Modern cinematic data browsing interface featuring a high-performance UI and fluid interactions.
+> * **Tech:** React, Node.js, Tailwind CSS
+> * **Access:** [Initialize Repository](https://github.com/devendraprabhu/open-cinema?utm_source=gemini)
+> 
+> 
 
----
-
-## Education
-
-**B.Tech in Computer Science** — Presidency University, Bengaluru *(Expected 2027)*
-
----
-
-## Achievements
-
-- 1st Runner-Up — Build with AI 24-Hour Hackathon  
-- Semi-Finalist — Smart India Hackathon (SIH)  
-- Public launch of Flowstate on Product Hunt & Peerlist
+> **`[04] AERO WEATHER CLI`**
+> Command-line atmospheric data extraction tool published to the Python Package Index.
+> * **Tech:** Python
+> * **Access:** [Initialize Package](https://pypi.org/project/aero-wheather-cli/?utm_source=gemini)
+> 
+> 
 
 ---
 
-## Connect
+## 网络 // SYSTEM_ARCHITECTURE (Tech Stack)
 
-- **GitHub:** [github.com/devendraprabhu](https://github.com/devendraprabhu)
-- **LinkedIn:** [linkedin.com/in/pdevendraprabhu](https://www.linkedin.com/in/pdevendraprabhu/)
-- **Twitter / X:** [x.com/dec0de21](https://x.com/dec0de21)
-- **Email:** [devendraprabhu05@gmail.com](mailto:devendraprabhu05@gmail.com)
-- **Phone:** +91 8050952611
+```json
+{
+  "protocol_languages": ["Python", "JavaScript (ES6+)", "PHP", "SQL", "HTML5/CSS3"],
+  "frontend_modules": ["Next.js", "React.js", "Tailwind CSS", "Bootstrap"],
+  "backend_nodes": ["FastAPI", "Node.js", "REST APIs", "Auth & Session Control"],
+  "databanks": ["PostgreSQL", "MongoDB", "MySQL", "Supabase"],
+  "ai_analytics": ["LangChain", "Prompt Engineering", "Power BI"],
+  "infrastructure": ["Git/GitHub", "Docker", "Google Cloud Platform", "Vercel", "PyPI"]
+}
+
+```
 
 ---
 
-Built with passion · Always shipping.
+## 档案 // MEMORY_ARCHIVES (Experience & Education)
+
+### [ DATA_ANALYST_INTERN ] :: GE Healthcare Partner Project
+
+**`TIMESTAMP:`** Oct 2025 – Mar 2026
+
+* **Log:** Engineered Power BI dashboards and complex data models to provide high-level visibility into CT machine manufacturing lifecycles.
+
+### [ ACADEMIC_TRAINING ] :: Presidency University, Bengaluru
+
+**`TIMESTAMP:`** Expected Graduation 2027
+
+* **Log:** B.Tech in Computer Science and Engineering.
+
+---
+
+## 里程碑 // SYSTEM_ACHIEVEMENTS
+
+* **[2nd Place]** — Backend Heist Technical Competition
+* **[1st Runner-Up]** — Build with AI 24-Hour Hackathon
+* **[Semi-Finalist]** — Smart India Hackathon (SIH)
+* **[Global Launch]** — Deployed Flowstate to Product Hunt & Peerlist
+
+---
+
+## 链接 // UPLINK_CONNECTIONS
+
+* 🌐 **GitHub:** [github.com/devendraprabhu](https://github.com/devendraprabhu?utm_source=gemini)
+* 💼 **LinkedIn:** [linkedin.com/in/pdevendraprabhu](https://www.linkedin.com/in/pdevendraprabhu/?utm_source=gemini)
+* 𝕏 **Network:** [x.com/dec0de21](https://x.com/dec0de21?utm_source=gemini)
+* 📧 **Comms:** [devendraprabhu05@gmail.com](https://www.google.com/search?q=mailto%3Adevendraprabhu05%40gmail.com)
