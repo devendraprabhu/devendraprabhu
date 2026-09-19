@@ -5,7 +5,7 @@ I build and ship **full-stack web apps**, **REST APIs**, **AI-powered products**
 
 🌐 **Portfolio:** [devendraprabhu/portfolio](https://github.com/devendraprabhu/portfolio)  
 🎬 **Open Cinema:** [devendraprabhu/open-cinema](https://github.com/devendraprabhu/open-cinema)
-
+![GitHub Ascii Animation](GithubAscii-ezgif.com-video-to-gif-converter.gif)
 ---
 <div align="center">
 
